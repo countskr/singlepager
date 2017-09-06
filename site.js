@@ -36,7 +36,7 @@ $.extend($.easing,
                 settings.scrollSpeed, "easeInOutExpo", function(){
                     disableScrollFn = false;
                 }
-            );
+            ); 
     	});
 
         //populate lookup of clicable elements and destination sections
